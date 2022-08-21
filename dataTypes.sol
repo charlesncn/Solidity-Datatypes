@@ -6,6 +6,5 @@ contract Storage{
     string myToken = "ETH";
     int256 myInt = -34;
     address myAdd = 0x353469fgf34797347429744299;
-    bytes32 myByte = "sol";
-    
+    bytes32 myByte = "sol";    
 }
